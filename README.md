@@ -9,6 +9,6 @@ Doc2Vec, resulting in qualification into the 2022 National TSA Competition for S
 Finalist and 2nd overall at the 2022 TSA State Competition in Software Development
 
 
-Project slideshow:
+Project slideshow: (includes videos on final slides)
 
 https://docs.google.com/presentation/d/1Vjs2tXY43_EulvPU1VCtbSlmtr6cpQrsLcAhdnNPruE/edit?usp=sharing
